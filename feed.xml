@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>dumbdev</title>
+    <link href="https://akvadrako.github.io/site-abc/feed.xml" rel="self" />
+    <link href="https://akvadrako.github.io/site-abc" />
+    <updated>2021-11-06T11:23:10+01:00</updated>
+    <author>
+        <name>bobo</name>
+    </author>
+    <id>https://akvadrako.github.io/site-abc</id>
+
+    <entry>
+        <title>Title</title>
+        <author>
+            <name>bobo</name>
+        </author>
+        <link href="https://akvadrako.github.io/site-abc/title.html"/>
+        <id>https://akvadrako.github.io/site-abc/title.html</id>
+
+        <updated>2021-11-06T11:23:10+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Bold 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="text-decoration: underline;"><em>Bold</em></span></p>
+<figure class="post__image"><img loading="lazy"  src="https://akvadrako.github.io/site-abc/media/posts/1/woman-cropped.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://akvadrako.github.io/site-abc/media/posts/1/responsive/woman-cropped-xs.jpeg 300w ,https://akvadrako.github.io/site-abc/media/posts/1/responsive/woman-cropped-sm.jpeg 480w ,https://akvadrako.github.io/site-abc/media/posts/1/responsive/woman-cropped-md.jpeg 768w ,https://akvadrako.github.io/site-abc/media/posts/1/responsive/woman-cropped-lg.jpeg 1024w ,https://akvadrako.github.io/site-abc/media/posts/1/responsive/woman-cropped-xl.jpeg 1360w ,https://akvadrako.github.io/site-abc/media/posts/1/responsive/woman-cropped-2xl.jpeg 1600w"  alt="" width="564" height="578"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://akvadrako.github.io/site-abc/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://akvadrako.github.io/site-abc/</loc>
+</url>
+<url>
+<loc>https://akvadrako.github.io/site-abc/title.html</loc>
+<lastmod>2021-11-06T11:23:10+01:00</lastmod>
+<image:image>
+<image:loc>https://akvadrako.github.io/site-abc/media/posts/1/woman-cropped.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

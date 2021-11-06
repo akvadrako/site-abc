@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://akvadrako.github.io/site-abc/sitemap.xml
